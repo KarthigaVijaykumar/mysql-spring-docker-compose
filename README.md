@@ -20,7 +20,7 @@ Create the .jar by executing mvn install.
 [In this case it throws unknown host error as application.properties has the mysql container as database. So use mvn package -DskipTests to create the jar]
 
 Now create the spring boot image by building the dockerfile
-->docker build -f Dockerfile -t springboot-mysql-docker .
+->docker build -f Dockerfile -t spring-mysql-docker .
 [Here Dockerfile is the name of the dockerfile that yu have created].
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
