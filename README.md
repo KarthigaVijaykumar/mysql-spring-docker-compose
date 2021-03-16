@@ -35,7 +35,7 @@ Create the containers through dockercompose
 
 Now both the containers will be running inside the docker.
 
-Examine the ports on which the containers are running.Yu can use these ports to give the access the data.
+Examine the ports on which the containers are running.Yu can use these ports to give and access the data.
 
 In my case, my springboot container runs on 8082 port.
 
