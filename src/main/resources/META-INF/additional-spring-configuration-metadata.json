@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'dialect'"
+  },
+  {
+    "name": "ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'ddl-auto'"
+  },
+  {
+    "name": "hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate'"
+  },
+  {
+    "name": "properties",
+    "type": "java.lang.String",
+    "description": "A description for 'properties'"
+  },
+  {
+    "name": "jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa'"
+  },
+  {
+    "name": "context-path",
+    "type": "java.lang.String",
+    "description": "A description for 'context-path'"
+  },
+  {
+    "name": "servlet",
+    "type": "java.lang.String",
+    "description": "A description for 'servlet'"
+  },
+  {
+    "name": "server",
+    "type": "java.lang.String",
+    "description": "A description for 'server'"
+  }
+]}
